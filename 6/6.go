@@ -7,7 +7,7 @@ import (
 	"sort"
 )
 
-func main() {
+func main6() {
 	var in *bufio.Reader
 	var out *bufio.Writer
 	in = bufio.NewReader(os.Stdin)
