@@ -12,7 +12,7 @@ var (
 	out = bufio.NewWriter(os.Stdout)
 )
 
-func main() {
+func main7() {
 	defer out.Flush()
 
 	var t int
